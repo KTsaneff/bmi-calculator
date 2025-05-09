@@ -1,5 +1,7 @@
 # BMI Calculator 🧮
 
+> 🔗 [Live Demo](https://ktsaneff.github.io/bmi-calculator/) — Try it instantly in your browser!
+
 A clean and modern Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript.
 
 ## 💡 Features
